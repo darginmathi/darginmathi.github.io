@@ -3,22 +3,6 @@ layout: default
 title: Dargin Mathiazhagan
 ---
 
-# Dargin Mathiazhagan
-
-**Software Engineer**  
-Bengaluru, Karnataka, India  
-
-📧 darginmathi@gmail.com  
-📞 +91 7708420236  
-[GitHub](https://github.com/darginmathi) | [LinkedIn](https://www.linkedin.com/in/darginmathi/)
-
----
-
-## Summary
-Software Engineer skilled in Go and Python, creating applications that reduce manual work through strategic automation and thoughtful UX. Experienced in end-to-end development of desktop GUI/CLI utilities, backed by SQL databases, containerization, and backend infrastructure.
-
----
-
 ## Skills
 
 ### Languages
